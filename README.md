@@ -181,9 +181,6 @@ MONGO_URI=your_mongodb_connection_string
     }
     ```
 
-## 📸 Screenshots
-
-_Add screenshots of your application here to showcase the UI_
 
 ## 📚 Learning Outcomes
 
